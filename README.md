@@ -69,3 +69,10 @@ This means that the definition of a "device" is a little different from what's c
 
 ### From Smell, Taste and Temperature Symposium, 2021 Talk
 Abstract: As scent information, education and science becomes more  applicable and accessible to broader communities, there is an  opportunity to enhance STE(A)M education efforts and connect the scent  technology innovators, creative perfumery communities with informal  educators and experience designers focused on prototyping new kinds of  experiences with scent. To date, most of this research exists in  universities, and scent technology opportunities are still new to the  network of informal science educators. We have an opportunity to  provide, organize and publish interesting technology, material science,  chemistry and coding projects and we would like to focus on some low-fi  interfaces and templates that can help form bridges between communities.
+
+### Project Assets
+
+* Initial website will be scent-device.aromadiscord.com
+* Initial device submission form (https://airtable.com/shr2t8vJrXC8TiBCy)
+* Sign up to help out with the Scent Device Wiki: https://airtable.com/shrYOO91Bil9wLbJ0 (we will send you annoucements about workshops)
+* Sign up for Aroma Discord: https://airtable.com/shrKiJES3nlqxHBXx (International meet-up group of scent technologists + perfumers + researchers)
