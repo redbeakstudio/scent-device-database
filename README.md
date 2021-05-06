@@ -1,4 +1,4 @@
-# Scent Device Visual Wiki Database
+# Scent Device Database and Visual Wiki
 
 An open-source database of low-fi and affordable scent devices for use by artists, educators, tinkerers and perfumers, to explore designing and building multi-sensorial experiences with scent.
 
